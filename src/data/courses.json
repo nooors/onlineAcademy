@@ -1,0 +1,95 @@
+[
+  {
+    "id": "1",
+    "title": "Compodoc: Create documentation in Angular/Ionic/TS projects",
+    "description": "Create quality and VERY easy to maintain documentation with Compodoc for Angular 2+ / Ionic 2+ / Typescript projects.",
+    "clases": 73,
+    "time": 3.5,
+    "level": "MEDIUM",
+    "logo": "https://i.udemycdn.com/course/240x135/1777518_b681_6.jpg",
+    "path": "/compodoc-crea-documentacion-en-angular-ionic",
+    "teacher": "Anartz Mugika Ledo",
+    "reviews": [
+      {
+        "id": "1",
+        "name": "Juan Gómez Navarro",
+        "points": 4.5,
+        "comment": "Very good course, just what I needed!"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "NPM: JS, TS, Angular library development and publishing",
+    "description": "Learn from 0 the notions of NPM and how to create Node libraries in Javascript Typescript Angular with practical examples!",
+    "clases": 276,
+    "time": 17.5,
+    "level": "ALL",
+    "logo": "https://i.udemycdn.com/course/240x135/1992318_a8ef_3.jpg",
+    "path": "/npm-librerias-node-con-js-typescript-angular-y-otras-herramientas",
+    "teacher": "Anartz Mugika Ledo",
+    "reviews": [
+      {
+        "id": "1",
+        "name": "Ruslan Gonzalez",
+        "points": 5,
+        "comment": "What I have learned in this course is priceless, the instructor has really done a good job. In relation to the subject I think it is very important to know how to create libraries as it will help us to reuse our code and be more productive in our work and developments. I have definitely learned how to do it well and using the best practices. Thanks Anartz !"
+      },
+      {
+        "id": "2",
+        "name": "Estuardo Andrés Esquivel Díaz",
+        "points": 5,
+        "comment": "I have not yet finished the course but I must make my evaluation for those who have not yet decided to purchase the course do it, let me tell you that you will not regret the course more than fulfills its purpose and teaches you many more topics such as continuous integration, unit testing, interaction with third party web services, is a wonder and the approach that has the tutor to guide it as a support to the community gives you one more point. When I finish I will come back to update my evaluation so far I am in section 9 and I have nothing to complain about."
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Angular: From zero to expert (Angular 8+)",
+    "description": "Everything you need to know about angular using TypeScript and best practices offered by the Angular team.",
+    "clases": 326,
+    "time": 28.5,
+    "level": "ALL",
+    "logo": "https://i.udemycdn.com/course/240x135/1075334_8b5f_4.jpg",
+    "path": "/angular-2-fernando-herrera",
+    "teacher": "Fernando Herrera",
+    "reviews": [
+      {
+        "id": "1",
+        "name": "Aitor",
+        "points": 5,
+        "comment": "Good teacher, good explanations, good material and updated. Highly recommended if you want to start defending yourself with Angular."
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Flutter: Your complete IOS and Android development guide",
+    "description": "Push, Camera, Maps, REST API, SQLite, CRUD, Tokens, Storage, User preferences, PlayStore, AppStore, Bloc and more!",
+    "clases": 264,
+    "time": 28.5,
+    "level": "ALL",
+    "logo": "https://i.udemycdn.com/course/240x135/2306140_8181.jpg",
+    "path": "/flutter-ios-android-fernando-herrera",
+    "teacher": "Fernando Herrera",
+    "reviews": [
+      {
+        "id": "1",
+        "name": "Christian",
+        "points": 5,
+        "comment": "Another great course from Fernando Herrera, every time better, thank you for sharing your knowledge and helping us to make everything easier and simpler. This course helps to understand flutter well from 0."
+      },
+      {
+        "id": "2",
+        "name": "Juan Antonio",
+        "points": 5,
+        "comment": "Fantastic, from knowing nothing about Dart and Flutter I am now able to create 100% functional and beautiful applications. Highly recommended!"
+      },
+      {
+        "id": "3",
+        "name": "Jose Luis",
+        "points": 5
+      }
+    ]
+  }
+]
