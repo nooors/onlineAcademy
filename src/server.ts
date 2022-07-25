@@ -5,7 +5,7 @@ import { createServer } from "http";
 
 const app = express();
 
-app.use("*", cors);
+app.use(cors());
 app.use(compression());
 
 app.get("/", (req, res) => {

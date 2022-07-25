@@ -1,0 +1,41 @@
+type Query {
+  "Academy Students List"
+  students: String
+}
+
+"Students information"
+type Student {
+  "Student identifier"
+  id: ID!
+  name: String!
+  email: String!
+  website: String
+  courses: [Course!]!
+}
+
+type Course {
+  id: ID!
+  title: String!
+  description: String!
+  clases: Int!
+  time: Float!
+  level: Level!
+  logo: String!
+  path: String!
+  teacher: String!
+  reviews: [Review!]
+}
+
+enum Leve {
+  ALL
+  BEGINNER
+  MEDIUM
+  EXPERT
+}
+
+Type Review{
+    id: ID!
+    name: String!
+    points: Int!
+    comment: String
+}
