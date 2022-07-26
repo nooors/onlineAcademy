@@ -26,16 +26,16 @@ type Course {
   reviews: [Review!]
 }
 
-enum Leve {
+enum Level {
   ALL
   BEGINNER
   MEDIUM
   EXPERT
 }
 
-Type Review{
-    id: ID!
-    name: String!
-    points: Int!
-    comment: String
+type Review {
+  id: ID!
+  name: String!
+  points: Int!
+  comment: String
 }

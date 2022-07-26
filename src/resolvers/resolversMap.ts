@@ -1,10 +1,10 @@
 import { IResolvers } from "@graphql-tools/utils";
 import query from "./query";
 
-const resolversMap: IResolvers = {
+const resolvers: IResolvers = {
   Query: {
     ...query,
   },
 };
 
-export default resolversMap;
+export default resolvers;
